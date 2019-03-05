@@ -131,7 +131,7 @@ class MyFirstGUI:
 	import requests, json 
 
 	# enter your api key here 
-	api_key = "37e58e603526ab23dccbffdebb74b40a"
+	api_key = "YOUR_API_KEY_HERE"
 
 	# base_url variable to store url 
 	base_url = "http://api.openweathermap.org/data/2.5/weather?"
